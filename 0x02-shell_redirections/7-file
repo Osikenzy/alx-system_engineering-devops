@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'export BEST="School"'
+echo "Best School" > "\\\\'\"Best School\"\'\\\$\?\\\\\*:)"
